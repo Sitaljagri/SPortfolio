@@ -31,7 +31,7 @@ function Projects() {
               of web applications, API integrations, and responsive design. Each project demonstrates 
               my problem-solving abilities, efficient solutions, and user-focused experiences. It also 
               provides insights into my development process, emphasizing planning, collaboration, and continuous learning."
-              // ghLink="https://github.com/soumyajit4419/Chatify"
+              // ghLink="https://github.com/Sitaljagri/SPortfolio"
               // demoLink="https://chatify-49.web.app/"
             />
           </Col>
@@ -52,8 +52,8 @@ function Projects() {
               imgPath={editor}
               isBlog={false}
               title="Editor.io"
-              description="Online code and markdown editor build with react.js. Online Editor which supports html, css, and js code with instant view of website. Online markdown editor for building README file which supports GFM, Custom Html tags with toolbar and instant preview.Both the editor supports auto save of work using Local Storage"
-              // ghLink="https://github.com/soumyajit4419/Editor.io"
+              description="This project allows users to generate QR codes by uploading a URL or entering text, which is then encoded into a unique QR code. Once generated, the QR code can be easily downloaded in various formats for use. The tool is efficient and user-friendly, offering quick and seamless QR code creation."
+              ghLink="https://github.com/Sitaljagri/QR-code-generator"
               // demoLink="https://editor.soumya-jit.tech/"              
             />
           </Col>
@@ -64,7 +64,7 @@ function Projects() {
               isBlog={false}
               title="Plant AI"
               description="Used the plant disease dataset from Kaggle and trained a image classifer model using 'PyTorch' framework using CNN and Transfer Learning with 38 classes of various plant leaves. The model was successfully able to detect diseased and healthy leaves of 14 unique plants. I was able to achieve an accuracy of 98% by using Resnet34 pretrained model."
-              // ghLink="https://github.com/soumyajit4419/Plant_AI"
+              ghLink="https://github.com/Sitaljagri/QR-code-generator"
               // demoLink="https://plant49-ai.herokuapp.com/"
             />
           </Col>
@@ -74,7 +74,7 @@ function Projects() {
               imgPath={suicide}
               isBlog={false}
               title="Ai For Social Good"
-              description="Using 'Natural Launguage Processing' for the detection of suicide-related posts and user's suicide ideation in cyberspace  and thus helping in sucide prevention."
+              description="Using 'Natural Language Processing' for the detection of suicide-related posts and user's suicide ideation in cyberspace  and thus helping in sucide prevention."
               // ghLink="https://github.com/soumyajit4419/AI_For_Social_Good"
               // demoLink="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley" <--------Please include a demo link here
             />
