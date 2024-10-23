@@ -31,7 +31,7 @@ function Projects() {
               of web applications, API integrations, and responsive design. Each project demonstrates 
               my problem-solving abilities, efficient solutions, and user-focused experiences. It also 
               provides insights into my development process, emphasizing planning, collaboration, and continuous learning."
-              // ghLink="https://github.com/Sitaljagri/SPortfolio"
+              ghLink="https://github.com/Sitaljagri/SPortfolio"
               // demoLink="https://chatify-49.web.app/"
             />
           </Col>
@@ -41,7 +41,7 @@ function Projects() {
               imgPath={textUtiles}
               isBlog={false}
               title="TextUtils"
-              description="TextUtils is a web application designed to provide various utilities for manipulating and analyzing text. It's a handy tool for anyone working with text data, offering functionalities such as text transformation, counting characters and words, and text analysis."
+              description="TextUtils is a web application that provides various utilities for manipulating and analyzing text. It's a handy tool for anyone working with text data, offering functionalities such as text transformation, counting characters and words, and text analysis."
               ghLink="https://github.com/Sitaljagri/TextUtils"
               // demoLink="https://blogs.soumya-jit.tech/"
             />
@@ -52,7 +52,7 @@ function Projects() {
               imgPath={editor}
               isBlog={false}
               title="Editor.io"
-              description="This project allows users to generate QR codes by uploading a URL or entering text, which is then encoded into a unique QR code. Once generated, the QR code can be easily downloaded in various formats for use. The tool is efficient and user-friendly, offering quick and seamless QR code creation."
+              description="This project allows users to generate QR codes by uploading a URL or entering text, which is then encoded into a unique QR code. Once generated, the QR code can be easily downloaded in various formats for use. The efficient and user-friendly tool offers quick and seamless QR code creation."
               ghLink="https://github.com/Sitaljagri/QR-code-generator"
               // demoLink="https://editor.soumya-jit.tech/"              
             />
@@ -63,7 +63,7 @@ function Projects() {
               imgPath={leaf}
               isBlog={false}
               title="Plant AI"
-              description="Used the plant disease dataset from Kaggle and trained a image classifer model using 'PyTorch' framework using CNN and Transfer Learning with 38 classes of various plant leaves. The model was successfully able to detect diseased and healthy leaves of 14 unique plants. I was able to achieve an accuracy of 98% by using Resnet34 pretrained model."
+              description="This QR-code-generating single-page app allows users to input a URL or text, generate a QR code, and download it as an image. It uses HTML for structure, CSS for styling, and JavaScript to handle QR code generation and downloading. The app provides a simple interface with input fields, a generate button, and a download option."
               ghLink="https://github.com/Sitaljagri/QR-code-generator"
               // demoLink="https://plant49-ai.herokuapp.com/"
             />
@@ -74,10 +74,9 @@ function Projects() {
               imgPath={suicide}
               isBlog={false}
               title="Ai For Social Good"
-              description="Using 'Natural Language Processing' for the detection of suicide-related posts and user's suicide ideation in cyberspace  and thus helping in sucide prevention."
-              // ghLink="https://github.com/soumyajit4419/AI_For_Social_Good"
-              // demoLink="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley" <--------Please include a demo link here
-            />
+              description="A resume builder single-page web application in React.js allows users to input personal details, education, and work experience, generating a professional resume dynamically. It utilizes React's state management for form handling and real-time preview updates."
+              ghLink="https://github.com/Sitaljagri/Resume_-Builder"
+             
           </Col>
 
           <Col md={4} className="project-card">
